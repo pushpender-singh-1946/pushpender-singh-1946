@@ -6,7 +6,7 @@
 
 
 </p>
-<div size='20px'> Hi! My name is Pushpender Singh. Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='20px'> Hi! My name is Pawan Singh. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 
@@ -18,7 +18,7 @@
 - 💻 I’m a DevOps enthusiast
 - 💟 Kubernetes, Docker, Python, CICD Pipelines, Clouds, IaaC and yes Open Sources
 - ✋ Ask me about anything, I'm happy to help!
-- 📥 How to reach me: prana1946@gmail.com
+- 📥 How to reach me: prana19461@gmail.com
 
 
 
